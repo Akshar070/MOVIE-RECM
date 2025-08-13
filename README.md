@@ -1,1 +1,4 @@
 # MOVIE-RECM
+- IMBD
+- RSS, REDDIT, WEB CRAWL ()
+- 
